@@ -1,0 +1,1587 @@
+{
+ "AdjustToasterOvenTemperature": {
+  "kind": "atomic",
+  "target": null,
+  "pretrain300": true
+ },
+ "AdjustWaterTemperature": {
+  "kind": "atomic",
+  "target": null,
+  "pretrain300": true
+ },
+ "CloseBlenderLid": {
+  "kind": "atomic",
+  "target": "atomic_seen",
+  "pretrain300": true
+ },
+ "CloseCabinet": {
+  "kind": "atomic",
+  "target": null,
+  "pretrain300": true
+ },
+ "CloseDishwasher": {
+  "kind": "atomic",
+  "target": null,
+  "pretrain300": true
+ },
+ "CloseDrawer": {
+  "kind": "atomic",
+  "target": null,
+  "pretrain300": true
+ },
+ "CloseElectricKettleLid": {
+  "kind": "atomic",
+  "target": null,
+  "pretrain300": true
+ },
+ "CloseFridge": {
+  "kind": "atomic",
+  "target": "atomic_seen",
+  "pretrain300": true
+ },
+ "CloseFridgeDrawer": {
+  "kind": "atomic",
+  "target": null,
+  "pretrain300": true
+ },
+ "CloseMicrowave": {
+  "kind": "atomic",
+  "target": null,
+  "pretrain300": true
+ },
+ "CloseOven": {
+  "kind": "atomic",
+  "target": null,
+  "pretrain300": true
+ },
+ "CloseStandMixerHead": {
+  "kind": "atomic",
+  "target": null,
+  "pretrain300": true
+ },
+ "CloseToasterOvenDoor": {
+  "kind": "atomic",
+  "target": "atomic_seen",
+  "pretrain300": true
+ },
+ "CoffeeServeMug": {
+  "kind": "atomic",
+  "target": null,
+  "pretrain300": true
+ },
+ "CoffeeSetupMug": {
+  "kind": "atomic",
+  "target": "atomic_seen",
+  "pretrain300": true
+ },
+ "NavigateKitchen": {
+  "kind": "atomic",
+  "target": "atomic_seen",
+  "pretrain300": true
+ },
+ "OpenBlenderLid": {
+  "kind": "atomic",
+  "target": null,
+  "pretrain300": true
+ },
+ "OpenCabinet": {
+  "kind": "atomic",
+  "target": "atomic_seen",
+  "pretrain300": true
+ },
+ "OpenDishwasher": {
+  "kind": "atomic",
+  "target": null,
+  "pretrain300": true
+ },
+ "OpenDrawer": {
+  "kind": "atomic",
+  "target": "atomic_seen",
+  "pretrain300": true
+ },
+ "OpenElectricKettleLid": {
+  "kind": "atomic",
+  "target": null,
+  "pretrain300": true
+ },
+ "OpenFridge": {
+  "kind": "atomic",
+  "target": null,
+  "pretrain300": true
+ },
+ "OpenFridgeDrawer": {
+  "kind": "atomic",
+  "target": null,
+  "pretrain300": true
+ },
+ "OpenMicrowave": {
+  "kind": "atomic",
+  "target": null,
+  "pretrain300": true
+ },
+ "OpenOven": {
+  "kind": "atomic",
+  "target": null,
+  "pretrain300": true
+ },
+ "OpenStandMixerHead": {
+  "kind": "atomic",
+  "target": "atomic_seen",
+  "pretrain300": true
+ },
+ "OpenToasterOvenDoor": {
+  "kind": "atomic",
+  "target": null,
+  "pretrain300": true
+ },
+ "PickPlaceCabinetToCounter": {
+  "kind": "atomic",
+  "target": null,
+  "pretrain300": true
+ },
+ "PickPlaceCounterToBlender": {
+  "kind": "atomic",
+  "target": null,
+  "pretrain300": true
+ },
+ "PickPlaceCounterToCabinet": {
+  "kind": "atomic",
+  "target": "atomic_seen",
+  "pretrain300": true
+ },
+ "PickPlaceCounterToDrawer": {
+  "kind": "atomic",
+  "target": null,
+  "pretrain300": true
+ },
+ "PickPlaceCounterToMicrowave": {
+  "kind": "atomic",
+  "target": null,
+  "pretrain300": true
+ },
+ "PickPlaceCounterToOven": {
+  "kind": "atomic",
+  "target": null,
+  "pretrain300": true
+ },
+ "PickPlaceCounterToSink": {
+  "kind": "atomic",
+  "target": null,
+  "pretrain300": true
+ },
+ "PickPlaceCounterToStandMixer": {
+  "kind": "atomic",
+  "target": null,
+  "pretrain300": true
+ },
+ "PickPlaceCounterToStove": {
+  "kind": "atomic",
+  "target": "atomic_seen",
+  "pretrain300": true
+ },
+ "PickPlaceCounterToToasterOven": {
+  "kind": "atomic",
+  "target": null,
+  "pretrain300": true
+ },
+ "PickPlaceDrawerToCounter": {
+  "kind": "atomic",
+  "target": "atomic_seen",
+  "pretrain300": true
+ },
+ "PickPlaceFridgeDrawerToShelf": {
+  "kind": "atomic",
+  "target": null,
+  "pretrain300": true
+ },
+ "PickPlaceFridgeShelfToDrawer": {
+  "kind": "atomic",
+  "target": null,
+  "pretrain300": true
+ },
+ "PickPlaceMicrowaveToCounter": {
+  "kind": "atomic",
+  "target": null,
+  "pretrain300": true
+ },
+ "PickPlaceSinkToCounter": {
+  "kind": "atomic",
+  "target": "atomic_seen",
+  "pretrain300": true
+ },
+ "PickPlaceStoveToCounter": {
+  "kind": "atomic",
+  "target": null,
+  "pretrain300": true
+ },
+ "PickPlaceToasterOvenToCounter": {
+  "kind": "atomic",
+  "target": null,
+  "pretrain300": true
+ },
+ "PickPlaceToasterToCounter": {
+  "kind": "atomic",
+  "target": "atomic_seen",
+  "pretrain300": true
+ },
+ "PreheatOven": {
+  "kind": "atomic",
+  "target": null,
+  "pretrain300": true
+ },
+ "SlideDishwasherRack": {
+  "kind": "atomic",
+  "target": "atomic_seen",
+  "pretrain300": true
+ },
+ "SlideOvenRack": {
+  "kind": "atomic",
+  "target": null,
+  "pretrain300": true
+ },
+ "SlideToasterOvenRack": {
+  "kind": "atomic",
+  "target": null,
+  "pretrain300": true
+ },
+ "StartCoffeeMachine": {
+  "kind": "atomic",
+  "target": null,
+  "pretrain300": true
+ },
+ "TurnOffMicrowave": {
+  "kind": "atomic",
+  "target": null,
+  "pretrain300": true
+ },
+ "TurnOffSinkFaucet": {
+  "kind": "atomic",
+  "target": null,
+  "pretrain300": true
+ },
+ "TurnOffStove": {
+  "kind": "atomic",
+  "target": "atomic_seen",
+  "pretrain300": true
+ },
+ "TurnOnBlender": {
+  "kind": "atomic",
+  "target": null,
+  "pretrain300": true
+ },
+ "TurnOnElectricKettle": {
+  "kind": "atomic",
+  "target": "atomic_seen",
+  "pretrain300": true
+ },
+ "TurnOnMicrowave": {
+  "kind": "atomic",
+  "target": "atomic_seen",
+  "pretrain300": true
+ },
+ "TurnOnSinkFaucet": {
+  "kind": "atomic",
+  "target": "atomic_seen",
+  "pretrain300": true
+ },
+ "TurnOnStove": {
+  "kind": "atomic",
+  "target": null,
+  "pretrain300": true
+ },
+ "TurnOnToaster": {
+  "kind": "atomic",
+  "target": null,
+  "pretrain300": true
+ },
+ "TurnOnToasterOven": {
+  "kind": "atomic",
+  "target": null,
+  "pretrain300": true
+ },
+ "TurnSinkSpout": {
+  "kind": "atomic",
+  "target": null,
+  "pretrain300": true
+ },
+ "MakeIcedCoffee": {
+  "kind": "atomic",
+  "target": null,
+  "pretrain300": true
+ },
+ "CheesyBread": {
+  "kind": "atomic",
+  "target": null,
+  "pretrain300": true
+ },
+ "LowerHeat": {
+  "kind": "atomic",
+  "target": null,
+  "pretrain300": true
+ },
+ "PackDessert": {
+  "kind": "atomic",
+  "target": null,
+  "pretrain300": true
+ },
+ "AddIceCubes": {
+  "kind": "composite",
+  "target": null,
+  "pretrain300": true
+ },
+ "AddLemonToFish": {
+  "kind": "composite",
+  "target": null,
+  "pretrain300": true
+ },
+ "AddMarshmallow": {
+  "kind": "composite",
+  "target": null,
+  "pretrain300": true
+ },
+ "AddSugarCubes": {
+  "kind": "composite",
+  "target": null,
+  "pretrain300": true
+ },
+ "AddSweetener": {
+  "kind": "composite",
+  "target": null,
+  "pretrain300": true
+ },
+ "AdjustHeat": {
+  "kind": "composite",
+  "target": null,
+  "pretrain300": true
+ },
+ "AfterwashSorting": {
+  "kind": "composite",
+  "target": null,
+  "pretrain300": true
+ },
+ "AirDryFruit": {
+  "kind": "composite",
+  "target": null,
+  "pretrain300": true
+ },
+ "AlcoholServingPrep": {
+  "kind": "composite",
+  "target": null,
+  "pretrain300": true
+ },
+ "AlignSilverware": {
+  "kind": "composite",
+  "target": null,
+  "pretrain300": true
+ },
+ "ArrangeBreadBasket": {
+  "kind": "composite",
+  "target": "composite_unseen",
+  "pretrain300": false
+ },
+ "ArrangeBreadBowl": {
+  "kind": "composite",
+  "target": null,
+  "pretrain300": true
+ },
+ "ArrangeBuffetDessert": {
+  "kind": "composite",
+  "target": null,
+  "pretrain300": true
+ },
+ "ArrangeDrinkware": {
+  "kind": "composite",
+  "target": null,
+  "pretrain300": true
+ },
+ "ArrangeTea": {
+  "kind": "composite",
+  "target": "composite_unseen",
+  "pretrain300": false
+ },
+ "ArrangeTeaAccompaniments": {
+  "kind": "composite",
+  "target": null,
+  "pretrain300": true
+ },
+ "ArrangeUtensilsByType": {
+  "kind": "composite",
+  "target": null,
+  "pretrain300": true
+ },
+ "ArrangeVegetables": {
+  "kind": "composite",
+  "target": null,
+  "pretrain300": true
+ },
+ "AssembleCookingArray": {
+  "kind": "composite",
+  "target": null,
+  "pretrain300": true
+ },
+ "BalancedMealPrep": {
+  "kind": "composite",
+  "target": null,
+  "pretrain300": true
+ },
+ "BeverageOrganization": {
+  "kind": "composite",
+  "target": null,
+  "pretrain300": true
+ },
+ "BeverageSorting": {
+  "kind": "composite",
+  "target": null,
+  "pretrain300": true
+ },
+ "BlendIngredients": {
+  "kind": "composite",
+  "target": null,
+  "pretrain300": true
+ },
+ "BlendMarinade": {
+  "kind": "composite",
+  "target": null,
+  "pretrain300": true
+ },
+ "BowlAndCup": {
+  "kind": "composite",
+  "target": null,
+  "pretrain300": true
+ },
+ "BreadAndCheese": {
+  "kind": "composite",
+  "target": null,
+  "pretrain300": true
+ },
+ "BreadSelection": {
+  "kind": "composite",
+  "target": "composite_unseen",
+  "pretrain300": false
+ },
+ "BreadSetupSlicing": {
+  "kind": "composite",
+  "target": null,
+  "pretrain300": true
+ },
+ "BuildAppetizerPlate": {
+  "kind": "composite",
+  "target": null,
+  "pretrain300": true
+ },
+ "ButterOnPan": {
+  "kind": "composite",
+  "target": null,
+  "pretrain300": true
+ },
+ "CandleCleanup": {
+  "kind": "composite",
+  "target": null,
+  "pretrain300": true
+ },
+ "CategorizeCondiments": {
+  "kind": "composite",
+  "target": "composite_unseen",
+  "pretrain300": false
+ },
+ "CerealAndBowl": {
+  "kind": "composite",
+  "target": null,
+  "pretrain300": true
+ },
+ "ChooseMeasuringCup": {
+  "kind": "composite",
+  "target": null,
+  "pretrain300": true
+ },
+ "ChooseRipeFruit": {
+  "kind": "composite",
+  "target": null,
+  "pretrain300": true
+ },
+ "CleanBoard": {
+  "kind": "composite",
+  "target": null,
+  "pretrain300": true
+ },
+ "CleanMicrowave": {
+  "kind": "composite",
+  "target": null,
+  "pretrain300": true
+ },
+ "ClearClutter": {
+  "kind": "composite",
+  "target": null,
+  "pretrain300": true
+ },
+ "ClearCuttingBoard": {
+  "kind": "composite",
+  "target": null,
+  "pretrain300": true
+ },
+ "ClearFoodWaste": {
+  "kind": "composite",
+  "target": null,
+  "pretrain300": true
+ },
+ "ClearFreezer": {
+  "kind": "composite",
+  "target": null,
+  "pretrain300": true
+ },
+ "ClearReceptaclesForCleaning": {
+  "kind": "composite",
+  "target": null,
+  "pretrain300": true
+ },
+ "ClearSink": {
+  "kind": "composite",
+  "target": null,
+  "pretrain300": true
+ },
+ "ClearSinkArea": {
+  "kind": "composite",
+  "target": null,
+  "pretrain300": true
+ },
+ "ClearSinkSpace": {
+  "kind": "composite",
+  "target": null,
+  "pretrain300": true
+ },
+ "CollectWashingSupplies": {
+  "kind": "composite",
+  "target": null,
+  "pretrain300": true
+ },
+ "ColorfulSalsa": {
+  "kind": "composite",
+  "target": null,
+  "pretrain300": true
+ },
+ "CondimentCollection": {
+  "kind": "composite",
+  "target": null,
+  "pretrain300": true
+ },
+ "CookieDoughPrep": {
+  "kind": "composite",
+  "target": null,
+  "pretrain300": true
+ },
+ "CoolBakedCake": {
+  "kind": "composite",
+  "target": null,
+  "pretrain300": true
+ },
+ "CoolKettle": {
+  "kind": "composite",
+  "target": null,
+  "pretrain300": true
+ },
+ "CreateChildFriendlyFridge": {
+  "kind": "composite",
+  "target": null,
+  "pretrain300": true
+ },
+ "CupcakeCleanup": {
+  "kind": "composite",
+  "target": null,
+  "pretrain300": true
+ },
+ "CutBuffetPizza": {
+  "kind": "composite",
+  "target": null,
+  "pretrain300": true
+ },
+ "CuttingToolSelection": {
+  "kind": "composite",
+  "target": "composite_unseen",
+  "pretrain300": false
+ },
+ "DateNight": {
+  "kind": "composite",
+  "target": null,
+  "pretrain300": true
+ },
+ "DefrostByCategory": {
+  "kind": "composite",
+  "target": null,
+  "pretrain300": true
+ },
+ "DeliverBrewedCoffee": {
+  "kind": "composite",
+  "target": null,
+  "pretrain300": true
+ },
+ "DeliverStraw": {
+  "kind": "composite",
+  "target": "composite_seen",
+  "pretrain300": true
+ },
+ "DessertAssembly": {
+  "kind": "composite",
+  "target": null,
+  "pretrain300": true
+ },
+ "DessertUpgrade": {
+  "kind": "composite",
+  "target": null,
+  "pretrain300": true
+ },
+ "DisplayMeatVariety": {
+  "kind": "composite",
+  "target": null,
+  "pretrain300": true
+ },
+ "DistributeChicken": {
+  "kind": "composite",
+  "target": null,
+  "pretrain300": true
+ },
+ "DivideBasins": {
+  "kind": "composite",
+  "target": null,
+  "pretrain300": true
+ },
+ "DivideBuffetTrays": {
+  "kind": "composite",
+  "target": null,
+  "pretrain300": true
+ },
+ "DrainVeggies": {
+  "kind": "composite",
+  "target": null,
+  "pretrain300": true
+ },
+ "DrinkwareConsolidation": {
+  "kind": "composite",
+  "target": null,
+  "pretrain300": true
+ },
+ "DryDishes": {
+  "kind": "composite",
+  "target": null,
+  "pretrain300": true
+ },
+ "DryDrinkware": {
+  "kind": "composite",
+  "target": null,
+  "pretrain300": true
+ },
+ "DumpLeftovers": {
+  "kind": "composite",
+  "target": null,
+  "pretrain300": true
+ },
+ "FillBlenderJug": {
+  "kind": "composite",
+  "target": null,
+  "pretrain300": true
+ },
+ "FillKettle": {
+  "kind": "composite",
+  "target": null,
+  "pretrain300": true
+ },
+ "FilterMicrowavableItem": {
+  "kind": "composite",
+  "target": null,
+  "pretrain300": true
+ },
+ "FoodCleanup": {
+  "kind": "composite",
+  "target": null,
+  "pretrain300": true
+ },
+ "FreezeBottledWaters": {
+  "kind": "composite",
+  "target": null,
+  "pretrain300": true
+ },
+ "FreezeCookedFood": {
+  "kind": "composite",
+  "target": null,
+  "pretrain300": true
+ },
+ "FreezeIceTray": {
+  "kind": "composite",
+  "target": null,
+  "pretrain300": true
+ },
+ "FreshProduceOrganization": {
+  "kind": "composite",
+  "target": null,
+  "pretrain300": true
+ },
+ "FryingPanAdjustment": {
+  "kind": "composite",
+  "target": null,
+  "pretrain300": true
+ },
+ "GarnishCupcake": {
+  "kind": "composite",
+  "target": null,
+  "pretrain300": true
+ },
+ "GarnishPancake": {
+  "kind": "composite",
+  "target": "composite_unseen",
+  "pretrain300": false
+ },
+ "GatherCuttingTools": {
+  "kind": "composite",
+  "target": null,
+  "pretrain300": true
+ },
+ "GatherMarinadeIngredients": {
+  "kind": "composite",
+  "target": null,
+  "pretrain300": true
+ },
+ "GatherTableware": {
+  "kind": "composite",
+  "target": "composite_unseen",
+  "pretrain300": false
+ },
+ "GatherVegetables": {
+  "kind": "composite",
+  "target": null,
+  "pretrain300": true
+ },
+ "GetToastedBread": {
+  "kind": "composite",
+  "target": "composite_seen",
+  "pretrain300": true
+ },
+ "HeatKebabSandwich": {
+  "kind": "composite",
+  "target": "composite_unseen",
+  "pretrain300": false
+ },
+ "HeatMug": {
+  "kind": "composite",
+  "target": null,
+  "pretrain300": true
+ },
+ "HeatMultipleWater": {
+  "kind": "composite",
+  "target": null,
+  "pretrain300": true
+ },
+ "HotDogSetup": {
+  "kind": "composite",
+  "target": null,
+  "pretrain300": true
+ },
+ "JuiceFruitReamer": {
+  "kind": "composite",
+  "target": null,
+  "pretrain300": true
+ },
+ "KettleBoiling": {
+  "kind": "composite",
+  "target": "composite_seen",
+  "pretrain300": true
+ },
+ "LemonSeasoningFish": {
+  "kind": "composite",
+  "target": null,
+  "pretrain300": true
+ },
+ "LineUpCondiments": {
+  "kind": "composite",
+  "target": null,
+  "pretrain300": true
+ },
+ "LoadCondimentsInFridge": {
+  "kind": "composite",
+  "target": null,
+  "pretrain300": true
+ },
+ "LoadDishwasher": {
+  "kind": "composite",
+  "target": "composite_seen",
+  "pretrain300": true
+ },
+ "LoadFridgeByType": {
+  "kind": "composite",
+  "target": null,
+  "pretrain300": true
+ },
+ "LoadFridgeFifo": {
+  "kind": "composite",
+  "target": null,
+  "pretrain300": true
+ },
+ "LoadPreparedFood": {
+  "kind": "composite",
+  "target": null,
+  "pretrain300": true
+ },
+ "MakeFruitBowl": {
+  "kind": "composite",
+  "target": null,
+  "pretrain300": true
+ },
+ "MakeIceLemonade": {
+  "kind": "composite",
+  "target": "composite_unseen",
+  "pretrain300": false
+ },
+ "MakeLoadedPotato": {
+  "kind": "composite",
+  "target": null,
+  "pretrain300": true
+ },
+ "MatchCupAndDrink": {
+  "kind": "composite",
+  "target": null,
+  "pretrain300": true
+ },
+ "MaximizeFreezerSpace": {
+  "kind": "composite",
+  "target": null,
+  "pretrain300": true
+ },
+ "MealPrepStaging": {
+  "kind": "composite",
+  "target": null,
+  "pretrain300": true
+ },
+ "MeatSkewerAssembly": {
+  "kind": "composite",
+  "target": null,
+  "pretrain300": true
+ },
+ "MeatTransfer": {
+  "kind": "composite",
+  "target": null,
+  "pretrain300": true
+ },
+ "MicrowaveCorrectMeal": {
+  "kind": "composite",
+  "target": null,
+  "pretrain300": true
+ },
+ "MicrowaveDefrostMeat": {
+  "kind": "composite",
+  "target": null,
+  "pretrain300": true
+ },
+ "MicrowaveThawing": {
+  "kind": "composite",
+  "target": null,
+  "pretrain300": true
+ },
+ "MicrowaveThawingFridge": {
+  "kind": "composite",
+  "target": null,
+  "pretrain300": true
+ },
+ "MixCakeFrosting": {
+  "kind": "composite",
+  "target": null,
+  "pretrain300": true
+ },
+ "MixedFruitPlatter": {
+  "kind": "composite",
+  "target": null,
+  "pretrain300": true
+ },
+ "MoveFreezerToFridge": {
+  "kind": "composite",
+  "target": null,
+  "pretrain300": true
+ },
+ "MoveFridgeToFreezer": {
+  "kind": "composite",
+  "target": null,
+  "pretrain300": true
+ },
+ "MoveToCounter": {
+  "kind": "composite",
+  "target": null,
+  "pretrain300": true
+ },
+ "MoveToFreezerDrawer": {
+  "kind": "composite",
+  "target": null,
+  "pretrain300": true
+ },
+ "MultistepSteaming": {
+  "kind": "composite",
+  "target": null,
+  "pretrain300": true
+ },
+ "OrganizeBakingIngredients": {
+  "kind": "composite",
+  "target": null,
+  "pretrain300": true
+ },
+ "OrganizeCleaningSupplies": {
+  "kind": "composite",
+  "target": null,
+  "pretrain300": true
+ },
+ "OrganizeCoffeeCondiments": {
+  "kind": "composite",
+  "target": null,
+  "pretrain300": true
+ },
+ "OrganizeCondiments": {
+  "kind": "composite",
+  "target": null,
+  "pretrain300": true
+ },
+ "OrganizeMetallicUtensils": {
+  "kind": "composite",
+  "target": null,
+  "pretrain300": true
+ },
+ "OrganizeMugsByHandle": {
+  "kind": "composite",
+  "target": null,
+  "pretrain300": true
+ },
+ "OrganizeVegetables": {
+  "kind": "composite",
+  "target": null,
+  "pretrain300": true
+ },
+ "OvenBroilFish": {
+  "kind": "composite",
+  "target": null,
+  "pretrain300": true
+ },
+ "PackFoodByTemp": {
+  "kind": "composite",
+  "target": null,
+  "pretrain300": true
+ },
+ "PackFruitContainer": {
+  "kind": "composite",
+  "target": null,
+  "pretrain300": true
+ },
+ "PackIdenticalLunches": {
+  "kind": "composite",
+  "target": "composite_seen",
+  "pretrain300": true
+ },
+ "PanTransfer": {
+  "kind": "composite",
+  "target": "composite_unseen",
+  "pretrain300": false
+ },
+ "PastryDisplay": {
+  "kind": "composite",
+  "target": null,
+  "pretrain300": true
+ },
+ "PlaceBeveragesTogether": {
+  "kind": "composite",
+  "target": null,
+  "pretrain300": true
+ },
+ "PlaceDishesBySink": {
+  "kind": "composite",
+  "target": null,
+  "pretrain300": true
+ },
+ "PlaceEqualIceCubes": {
+  "kind": "composite",
+  "target": null,
+  "pretrain300": true
+ },
+ "PlaceFoodInBowls": {
+  "kind": "composite",
+  "target": null,
+  "pretrain300": true
+ },
+ "PlaceIceInCup": {
+  "kind": "composite",
+  "target": null,
+  "pretrain300": true
+ },
+ "PlaceMeatInMarinade": {
+  "kind": "composite",
+  "target": null,
+  "pretrain300": true
+ },
+ "PlaceMicrowaveSafeItem": {
+  "kind": "composite",
+  "target": null,
+  "pretrain300": true
+ },
+ "PlaceOnDishRack": {
+  "kind": "composite",
+  "target": null,
+  "pretrain300": false
+ },
+ "PlaceStraw": {
+  "kind": "composite",
+  "target": null,
+  "pretrain300": true
+ },
+ "PlaceVegetablesEvenly": {
+  "kind": "composite",
+  "target": null,
+  "pretrain300": true
+ },
+ "PlaceVeggiesInDrawer": {
+  "kind": "composite",
+  "target": null,
+  "pretrain300": true
+ },
+ "PlateSteakMeal": {
+  "kind": "composite",
+  "target": null,
+  "pretrain300": true
+ },
+ "PlateStoreDinner": {
+  "kind": "composite",
+  "target": null,
+  "pretrain300": true
+ },
+ "PortionFruitBowl": {
+  "kind": "composite",
+  "target": null,
+  "pretrain300": true
+ },
+ "PortionHotDogs": {
+  "kind": "composite",
+  "target": "composite_unseen",
+  "pretrain300": false
+ },
+ "PortionInTupperware": {
+  "kind": "composite",
+  "target": null,
+  "pretrain300": true
+ },
+ "PortionOnSize": {
+  "kind": "composite",
+  "target": null,
+  "pretrain300": true
+ },
+ "PortionYogurt": {
+  "kind": "composite",
+  "target": null,
+  "pretrain300": true
+ },
+ "PreRinseStation": {
+  "kind": "composite",
+  "target": null,
+  "pretrain300": true
+ },
+ "PreSoakPan": {
+  "kind": "composite",
+  "target": "composite_seen",
+  "pretrain300": true
+ },
+ "PreheatPot": {
+  "kind": "composite",
+  "target": null,
+  "pretrain300": true
+ },
+ "PrepForSanitizing": {
+  "kind": "composite",
+  "target": null,
+  "pretrain300": true
+ },
+ "PrepForTenderizing": {
+  "kind": "composite",
+  "target": null,
+  "pretrain300": true
+ },
+ "PrepFridgeForCleaning": {
+  "kind": "composite",
+  "target": null,
+  "pretrain300": true
+ },
+ "PrepMarinatingMeat": {
+  "kind": "composite",
+  "target": null,
+  "pretrain300": true
+ },
+ "PrepSinkForCleaning": {
+  "kind": "composite",
+  "target": null,
+  "pretrain300": true
+ },
+ "PrepareBroilingStation": {
+  "kind": "composite",
+  "target": null,
+  "pretrain300": true
+ },
+ "PrepareCheeseStation": {
+  "kind": "composite",
+  "target": null,
+  "pretrain300": true
+ },
+ "PrepareCocktailStation": {
+  "kind": "composite",
+  "target": null,
+  "pretrain300": true
+ },
+ "PrepareCoffee": {
+  "kind": "composite",
+  "target": "composite_seen",
+  "pretrain300": true
+ },
+ "PrepareDishwasher": {
+  "kind": "composite",
+  "target": null,
+  "pretrain300": true
+ },
+ "PrepareDrinkStation": {
+  "kind": "composite",
+  "target": null,
+  "pretrain300": true
+ },
+ "PrepareSausageCheese": {
+  "kind": "composite",
+  "target": null,
+  "pretrain300": true
+ },
+ "PrepareSmoothie": {
+  "kind": "composite",
+  "target": null,
+  "pretrain300": true
+ },
+ "PrepareSoupServing": {
+  "kind": "composite",
+  "target": null,
+  "pretrain300": true
+ },
+ "PrepareStoringLeftovers": {
+  "kind": "composite",
+  "target": null,
+  "pretrain300": true
+ },
+ "PrepareToast": {
+  "kind": "composite",
+  "target": null,
+  "pretrain300": true
+ },
+ "PressChicken": {
+  "kind": "composite",
+  "target": null,
+  "pretrain300": true
+ },
+ "PrewashFoodAssembly": {
+  "kind": "composite",
+  "target": null,
+  "pretrain300": true
+ },
+ "PrewashFoodSorting": {
+  "kind": "composite",
+  "target": null,
+  "pretrain300": true
+ },
+ "QuickThaw": {
+  "kind": "composite",
+  "target": null,
+  "pretrain300": true
+ },
+ "RearrangeFridgeItems": {
+  "kind": "composite",
+  "target": null,
+  "pretrain300": true
+ },
+ "RecycleBottlesBySize": {
+  "kind": "composite",
+  "target": null,
+  "pretrain300": true
+ },
+ "RecycleBottlesByType": {
+  "kind": "composite",
+  "target": "composite_unseen",
+  "pretrain300": false
+ },
+ "RecycleSodaCans": {
+  "kind": "composite",
+  "target": null,
+  "pretrain300": true
+ },
+ "RecycleStackedYogurt": {
+  "kind": "composite",
+  "target": null,
+  "pretrain300": true
+ },
+ "RefillCondimentStation": {
+  "kind": "composite",
+  "target": null,
+  "pretrain300": true
+ },
+ "ReheatMeal": {
+  "kind": "composite",
+  "target": null,
+  "pretrain300": true
+ },
+ "RemoveBroiledFish": {
+  "kind": "composite",
+  "target": null,
+  "pretrain300": true
+ },
+ "RemoveCuttingBoardItems": {
+  "kind": "composite",
+  "target": null,
+  "pretrain300": true
+ },
+ "ReorganizeFrozenVegetables": {
+  "kind": "composite",
+  "target": null,
+  "pretrain300": true
+ },
+ "ResetCabinetDoors": {
+  "kind": "composite",
+  "target": null,
+  "pretrain300": true
+ },
+ "RestockBowls": {
+  "kind": "composite",
+  "target": null,
+  "pretrain300": true
+ },
+ "RestockCannedFood": {
+  "kind": "composite",
+  "target": null,
+  "pretrain300": true
+ },
+ "RestockPantry": {
+  "kind": "composite",
+  "target": null,
+  "pretrain300": true
+ },
+ "RestockSinkSupplies": {
+  "kind": "composite",
+  "target": null,
+  "pretrain300": true
+ },
+ "RetrieveIceTray": {
+  "kind": "composite",
+  "target": null,
+  "pretrain300": true
+ },
+ "RetrieveMeat": {
+  "kind": "composite",
+  "target": null,
+  "pretrain300": true
+ },
+ "ReturnHeatedFood": {
+  "kind": "composite",
+  "target": null,
+  "pretrain300": true
+ },
+ "ReturnWashingSupplies": {
+  "kind": "composite",
+  "target": null,
+  "pretrain300": true
+ },
+ "RinseBowls": {
+  "kind": "composite",
+  "target": null,
+  "pretrain300": true
+ },
+ "RinseCuttingBoard": {
+  "kind": "composite",
+  "target": null,
+  "pretrain300": true
+ },
+ "RinseSinkBasin": {
+  "kind": "composite",
+  "target": "composite_seen",
+  "pretrain300": true
+ },
+ "RotatePan": {
+  "kind": "composite",
+  "target": null,
+  "pretrain300": true
+ },
+ "SanitizePrepCuttingBoard": {
+  "kind": "composite",
+  "target": null,
+  "pretrain300": true
+ },
+ "ScalePortioning": {
+  "kind": "composite",
+  "target": null,
+  "pretrain300": true
+ },
+ "ScrubBowl": {
+  "kind": "composite",
+  "target": null,
+  "pretrain300": true
+ },
+ "ScrubCuttingBoard": {
+  "kind": "composite",
+  "target": "composite_seen",
+  "pretrain300": true
+ },
+ "SearingMeat": {
+  "kind": "composite",
+  "target": "composite_seen",
+  "pretrain300": true
+ },
+ "SeasoningSpiceSetup": {
+  "kind": "composite",
+  "target": null,
+  "pretrain300": true
+ },
+ "SeasoningSteak": {
+  "kind": "composite",
+  "target": null,
+  "pretrain300": true
+ },
+ "SeparateFreezerRack": {
+  "kind": "composite",
+  "target": "composite_unseen",
+  "pretrain300": false
+ },
+ "ServeSteak": {
+  "kind": "composite",
+  "target": null,
+  "pretrain300": true
+ },
+ "ServeTea": {
+  "kind": "composite",
+  "target": null,
+  "pretrain300": true
+ },
+ "ServeWarmCroissant": {
+  "kind": "composite",
+  "target": null,
+  "pretrain300": true
+ },
+ "SetBowlsForSoup": {
+  "kind": "composite",
+  "target": null,
+  "pretrain300": true
+ },
+ "SetUpCuttingStation": {
+  "kind": "composite",
+  "target": "composite_seen",
+  "pretrain300": true
+ },
+ "SetUpSpiceStation": {
+  "kind": "composite",
+  "target": null,
+  "pretrain300": true
+ },
+ "SetupBowls": {
+  "kind": "composite",
+  "target": null,
+  "pretrain300": true
+ },
+ "SetupButterPlate": {
+  "kind": "composite",
+  "target": null,
+  "pretrain300": true
+ },
+ "SetupFruitBowl": {
+  "kind": "composite",
+  "target": null,
+  "pretrain300": true
+ },
+ "SetupFrying": {
+  "kind": "composite",
+  "target": null,
+  "pretrain300": true
+ },
+ "SetupSodaBowl": {
+  "kind": "composite",
+  "target": null,
+  "pretrain300": true
+ },
+ "SetupWineGlasses": {
+  "kind": "composite",
+  "target": null,
+  "pretrain300": true
+ },
+ "ShakePan": {
+  "kind": "composite",
+  "target": null,
+  "pretrain300": true
+ },
+ "SimmeringSauce": {
+  "kind": "composite",
+  "target": null,
+  "pretrain300": true
+ },
+ "SizeSorting": {
+  "kind": "composite",
+  "target": null,
+  "pretrain300": true
+ },
+ "SnackSorting": {
+  "kind": "composite",
+  "target": null,
+  "pretrain300": true
+ },
+ "SoakSponge": {
+  "kind": "composite",
+  "target": null,
+  "pretrain300": true
+ },
+ "SortingCleanup": {
+  "kind": "composite",
+  "target": null,
+  "pretrain300": true
+ },
+ "SpicyMarinade": {
+  "kind": "composite",
+  "target": null,
+  "pretrain300": true
+ },
+ "StackBowlsCabinet": {
+  "kind": "composite",
+  "target": "composite_seen",
+  "pretrain300": true
+ },
+ "StackBowlsInSink": {
+  "kind": "composite",
+  "target": null,
+  "pretrain300": true
+ },
+ "StackCans": {
+  "kind": "composite",
+  "target": null,
+  "pretrain300": true
+ },
+ "StartElectricKettle": {
+  "kind": "composite",
+  "target": null,
+  "pretrain300": true
+ },
+ "SteamInMicrowave": {
+  "kind": "composite",
+  "target": "composite_seen",
+  "pretrain300": true
+ },
+ "StirVegetables": {
+  "kind": "composite",
+  "target": "composite_seen",
+  "pretrain300": true
+ },
+ "StockingBreakfastFoods": {
+  "kind": "composite",
+  "target": null,
+  "pretrain300": true
+ },
+ "StoreDumplings": {
+  "kind": "composite",
+  "target": null,
+  "pretrain300": true
+ },
+ "StoreLeftoversByType": {
+  "kind": "composite",
+  "target": null,
+  "pretrain300": true
+ },
+ "StoreLeftoversInBowl": {
+  "kind": "composite",
+  "target": "composite_seen",
+  "pretrain300": true
+ },
+ "StrainerSetup": {
+  "kind": "composite",
+  "target": null,
+  "pretrain300": true
+ },
+ "SweetSavoryToastSetup": {
+  "kind": "composite",
+  "target": null,
+  "pretrain300": true
+ },
+ "SweetenCoffee": {
+  "kind": "composite",
+  "target": null,
+  "pretrain300": true
+ },
+ "SweetenHotChocolate": {
+  "kind": "composite",
+  "target": null,
+  "pretrain300": true
+ },
+ "ThawInSink": {
+  "kind": "composite",
+  "target": null,
+  "pretrain300": true
+ },
+ "TiltPan": {
+  "kind": "composite",
+  "target": null,
+  "pretrain300": true
+ },
+ "ToastBagel": {
+  "kind": "composite",
+  "target": null,
+  "pretrain300": true
+ },
+ "ToastBaguette": {
+  "kind": "composite",
+  "target": null,
+  "pretrain300": true
+ },
+ "ToastOnCorrectRack": {
+  "kind": "composite",
+  "target": null,
+  "pretrain300": true
+ },
+ "TongBuffetSetup": {
+  "kind": "composite",
+  "target": null,
+  "pretrain300": true
+ },
+ "TransportCookware": {
+  "kind": "composite",
+  "target": null,
+  "pretrain300": true
+ },
+ "TurnOffSimmeredSauceHeat": {
+  "kind": "composite",
+  "target": null,
+  "pretrain300": true
+ },
+ "VeggieDipPrep": {
+  "kind": "composite",
+  "target": null,
+  "pretrain300": true
+ },
+ "WaffleReheat": {
+  "kind": "composite",
+  "target": "composite_unseen",
+  "pretrain300": false
+ },
+ "WarmCroissant": {
+  "kind": "composite",
+  "target": null,
+  "pretrain300": true
+ },
+ "WashFish": {
+  "kind": "composite",
+  "target": null,
+  "pretrain300": true
+ },
+ "WashFruitColander": {
+  "kind": "composite",
+  "target": "composite_unseen",
+  "pretrain300": false
+ },
+ "WashLettuce": {
+  "kind": "composite",
+  "target": "composite_seen",
+  "pretrain300": true
+ },
+ "WeighIngredients": {
+  "kind": "composite",
+  "target": "composite_unseen",
+  "pretrain300": false
+ },
+ "YogurtDelightPrep": {
+  "kind": "composite",
+  "target": null,
+  "pretrain300": true
+ }
+}
