@@ -1,6 +1,6 @@
 # minionx — RoboCasa365 evaluation materials
 
-This private repository accompanies the RoboCasa365 leaderboard submission **minionx** (submitter: novaxbot,
+This repository accompanies the RoboCasa365 leaderboard submission **minionx** (submitter: novaxbot,
 leaderboard PR robocasa-benchmark/leaderboard#35). It contains the evaluation code used for the reported numbers,
 the per-episode results, and the exact list of official seeds that were run.
 
