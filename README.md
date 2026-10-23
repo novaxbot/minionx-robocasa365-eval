@@ -6,7 +6,7 @@ the per-episode results, and the exact list of official seeds that were run.
 
 ## Model
 
-- Checkpoint (private Hugging Face repo, access granted to the RoboCasa team): `novaxbot/minionx-robocasa365`
+- Checkpoint (gated Hugging Face repo with manual approval; access granted to the RoboCasa team): `novaxbot/minionx-robocasa365`
 - minionx is Xiaomi-Robotics-1-RoboCasa365 fine-tuned with multi-teacher on-policy distillation; all weights were trained.
 - The checkpoint is a standard Hugging Face folder (3 safetensors shards, config, tokenizer/processor files and the
   `modeling_mibot.py` / `processing_mibot.py` / `configuration_mibot.py` remote code). It loads exactly like the Xiaomi
